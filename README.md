@@ -16,7 +16,7 @@ Upload on Doodstream by Url, File and also by direct forward post from other cha
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Bhatmanjusms/doodstreambot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/madloyer/doodstream)
 
 ##### Required Variables
 
